@@ -49,3 +49,6 @@ y code.py download --bucket jigar-bucket-from-boto3 --file <local file path here
 py code.py delete  --bucket jigar-bucket-from-boto3  --name testname.png
 
 ```
+## Diagram --> [Diagram link](https://app.eraser.io/workspace/DHhnAWqGpzVd91CmG3qB?origin=share)
+
+![Diagram](diagram/diagram.png)
